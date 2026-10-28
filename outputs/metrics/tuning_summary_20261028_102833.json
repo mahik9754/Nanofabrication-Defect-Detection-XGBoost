@@ -1,0 +1,23 @@
+{
+  "baseline_validation_macro_f1": 0.7723835688704662,
+  "best_tuned_validation_macro_f1": 0.620150598870895,
+  "best_tuned_parameters": {
+    "n_estimators": 400,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "min_child_weight": 3
+  },
+  "best_tuned_metrics": {
+    "accuracy": 0.9796511627906976,
+    "balanced_accuracy": 0.5996089319139024,
+    "macro_f1": 0.620150598870895
+  },
+  "tuned_model_promoted": false,
+  "completed_configurations": 3,
+  "total_configurations": 3,
+  "elapsed_minutes": 15.91,
+  "results_csv": "C:\\Users\\mahik\\Desktop\\sem_xgboost_final\\outputs\\metrics\\tuning_results_20261028_102833.csv",
+  "candidate_model": "C:\\Users\\mahik\\Desktop\\sem_xgboost_final\\models\\xgboost_tuned_candidate.joblib",
+  "baseline_backup": "C:\\Users\\mahik\\Desktop\\sem_xgboost_final\\models\\xgboost_baseline_backup_20261028_102833.joblib",
+  "note": "Used the fixed validation split for tuning; the test set was not used for model selection. No early stopping or cross-validation was used."
+}

@@ -1,0 +1,18 @@
+
+# Dataset images and masks
+images/
+masks/
+data/images/
+data/masks/
+data/original/
+data/processed_1/
+data/processed_2/
+
+# Large generated feature cache
+outputs/feature_cache/original_features.npz
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/

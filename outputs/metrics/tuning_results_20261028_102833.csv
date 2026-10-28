@@ -1,0 +1,4 @@
+name,status,n_estimators,max_depth,learning_rate,min_child_weight,accuracy,balanced_accuracy,macro_f1,elapsed_seconds,error
+A_simpler_trees,completed,400,3,0.05,1,0.9796511627906976,0.5790529141657049,0.6079161754874103,224.9,
+B_stronger_regularization,completed,400,4,0.05,3,0.9796511627906976,0.5996089319139024,0.620150598870895,297.4,
+C_slower_learning,completed,600,4,0.03,3,0.9767441860465116,0.5543436118401236,0.5799398416395608,429.4,

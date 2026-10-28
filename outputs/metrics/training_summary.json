@@ -1,0 +1,13 @@
+{
+  "selected_parameters": {
+    "n_estimators": 400,
+    "max_depth": 4,
+    "learning_rate": 0.05
+  },
+  "validation_macro_f1": 0.7723835688704662,
+  "train_samples": 3215,
+  "validation_samples": 688,
+  "test_samples": 688,
+  "feature_count": 8198,
+  "note": "Test split was not used for model selection."
+}
